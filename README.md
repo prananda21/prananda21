@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 My name is Prananda Yogathama Pribadi, you can call me **Yoga** for short.\
-I'm currently learning in **Web Development** field including **Front-end and Back-end Development.** and also start learning **DevOps Engineer** currently in [Dicoding Academy](https://www.dicoding.com/).\
+I'm currently learning in **Back-end Development**  in [Binar Academy](https://www.binaracademy.com/).\
+I have exprience using Node.JS and Express.JS Framework, also PostgreSQL in Back-End Development.
 I'm looking for help with my study in this field, hope we can collaborate some more!
 
 *i can collaborate in genshin impact also😄*
