@@ -2,7 +2,7 @@
 
 My name is Prananda Yogathama Pribadi, you can call me **Yoga** for short.\
 I'm currently learning in **Back-end Development**  in [Binar Academy](https://www.binaracademy.com/).\
-I have exprience using Node.JS with Express.JS Framework, PHP with Laravel Framework, also PostgreSQL and MySQL in Back-End Development.
+I have exprience using Node.JS (Javascript & Typescript) with Express.JS Framework also PostgreSQL and MySQL in Back-End Development.
 I'm looking for help with my study in this field, hope we can collaborate some more!
 
 *i can collaborate in genshin impact also😄*
