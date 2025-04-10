@@ -1,5 +1,5 @@
 ### Introduction
-Hey, I'm Yoga as Backend Developer. can do programming using Typescript language on several framework such as Express.JS, Nest.JS, and Bun.
+Hey, I'm Yoga as Backend Developer. can do programming using Typescript language on several framework such as Express.JS and Nest.JS for Node.JS runtime. also Hono for Bun runtime.
 
 <p align="left">
 <a href="https://github.com/prananda21">
