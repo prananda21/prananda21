@@ -1,4 +1,5 @@
-### Backend Developer yang tidak ganteng tapi cukup intelek😎
+### Introduction
+Hey, I'm Yoga as Backend Developer. can do programming using Typescript language on several framework such as Express.JS, Nest.JS, and Bun.
 
 <p align="left">
 <a href="https://github.com/prananda21">
