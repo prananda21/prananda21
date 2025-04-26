@@ -1,5 +1,9 @@
 ### Introduction
-Hey, I'm Yoga as Backend Developer. can do programming using Typescript language on several framework such as Express.JS and Nest.JS for Node.JS runtime. also Hono for Bun runtime.
+I do backend stuff with Node.JS and Bun (mostly using Typescript).
+
+Notes*:
+i'm researching for mobile development also, especially in Swift
+
 
 <p align="left">
 <a href="https://github.com/prananda21">
