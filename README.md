@@ -2,7 +2,7 @@
 I do backend stuff with Node.JS and Bun (mostly using Typescript).
 
 Notes*:
-i'm researching for mobile development also, especially in Swift
+i'm researching for Rust language tehee
 
 
 <p align="left">
